@@ -94,7 +94,7 @@ def main():
         client_signature = protocol.calc_signature(client_hash, client_rsa_private_key, N)
         # -----------------------------------------------------------------------------------
         # Check if change the mac the server response will be not authentic
-        client_signature += 1
+        # client_signature += 1
         # -----------------------------------------------------------------------------------
 
         # Convert the signature to bytes , byteorder='big' means the most significant byte is at the beginning
