@@ -138,17 +138,14 @@ Client                                  Server
 - **Block Size**: 4 bytes
 - **Hash Size**: 16 bits
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
 
-Yinon Shaul (211693114)
+Yinon Shaul
 
-## Contributing
+## Feedback
 
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+We welcome any feedback, suggestions, or ideas for improvement!  
+Feel free to open an issue and share your thoughts.
 
 ---
 
