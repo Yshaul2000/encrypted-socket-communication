@@ -101,6 +101,16 @@ The client will connect to `127.0.0.1:8820` and initiate the secure handshake.
 5. Server responds with encrypted and authenticated messages
 6. Type `EXIT` to terminate the connection
 
+## Screenshots
+
+### Server Output
+![Server Running](Images/server.jpg)
+*The server listening for connections, receiving and authenticating client messages*
+
+### Client Output
+![Client Communication](Images/client_msg.jpg)
+*The client sending messages and receiving authenticated responses from the server*
+
 ## Protocol Flow
 
 ```
